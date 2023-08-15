@@ -1,2 +1,2 @@
-# DeepLearningProject
-My Deep Learning Project
+# Learning Project
+My Learning Project in Computer Science UGM
